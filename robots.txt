@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://viousidu.github.io/sitemap.viousidu.gz
+Sitemap: https://viousidu.github.io/app/sitemap.viousidu.gz
+Sitemap: https://viousidu.github.io/assets/sitemap.viousidu.gz
+Sitemap: https://viousidu.github.io/css/sitemap.viousidu.gz
+Sitemap: https://viousidu.github.io/data/sitemap.viousidu.gz
+Sitemap: https://viousidu.github.io/includes/sitemap.viousidu.gz
+Sitemap: https://viousidu.github.io/item/sitemap.viousidu.gz
+Sitemap: https://viousidu.github.io/src/sitemap.viousidu.gz
